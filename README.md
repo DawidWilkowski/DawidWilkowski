@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 🃏  My Website http://wilkowski-dawid.pl/
+- 🃏  My Website https://www.wilkowski-dawid.pl/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
