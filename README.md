@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">A passionate Junior Java Developer from Bydgoszcz</h3>
 
-- 🔭 I’m currently working on [moviesSpringBoot](https://github.com/DawidWilkowski/moviesSpringBoot)
 
 - 🌱 I’m currently learning **Spring Boot**
 
