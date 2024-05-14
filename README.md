@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">A passionate Junior Java Developer from Bydgoszcz</h3>
 
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 🃏  My Website https://www.wilkowski-dawid.pl/
-
  ![Codewars](https://github.r2v.ch/codewars?user=DawidWilkowski)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
